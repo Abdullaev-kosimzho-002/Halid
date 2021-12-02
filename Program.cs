@@ -6,7 +6,7 @@ namespace Students
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Kasim");
         }
     }
 }
